@@ -27,3 +27,11 @@ Though all files are easily customizable, the only thing you need to edit to mak
 
 *A note on the icon images: The intent is to use your app's icon as the image. As such, the project depends on a square aspect ratio. If you choose to use a rectangular image, you'll need to tweak the constraints and layer radius.
 
+## Implementing RPAppBoard
+
+RPAppBoard can be initialized in the same manner as any other view controller. Here is some sample code to present it modally, but it can be presented in any other fashion you wish (eg: from a navigation controller, or from a segue for example).
+
+```
+let vc = RPAppBoardViewController()
+present(vc, animated: true, completion: nil)
+```
