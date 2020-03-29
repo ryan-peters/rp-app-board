@@ -35,3 +35,9 @@ RPAppBoard can be initialized in the same manner as any other view controller. H
 let vc = RPAppBoardViewController()
 present(vc, animated: true, completion: nil)
 ```
+
+### License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+If you use it in your project, please do let me know! I'd love to see how people are using or tweaking RPAppBoard!
