@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>iconFilename</key>
+		<string>pregnanteating.png</string>
+		<key>name</key>
+		<string>Pregnant Eating</string>
+		<key>description</key>
+		<string>Pregnant Eating is a handy quick reference for expectant mothers and their partners to help them make baby-friendly dietary choices.</string>
+		<key>link</key>
+		<string>itms-apps://itunes.apple.com/app/799672215</string>
+	</dict>
+	<dict>
+		<key>iconFilename</key>
+		<string>ninestein.png</string>
+		<key>name</key>
+		<string>NineStein</string>
+		<key>description</key>
+		<string>NineStein is a super addicting puzzle game that forces you to use your brain! Use the clues to try and match up the correct positions of the puzzle pieces.</string>
+		<key>link</key>
+		<string>itms-apps://itunes.apple.com/app/512396757</string>
+	</dict>
+	<dict>
+		<key>iconFilename</key>
+		<string>ontask2.png</string>
+		<key>name</key>
+		<string>On Task 2</string>
+		<key>description</key>
+		<string>A favorite tool of educators and behaviorists, On Task 2 is the sequel to the best-selling original. On Task allows for discreet behavior tracking, and provides data analysis that reveals unique insights you couldn&apos;t see otherwise!</string>
+		<key>link</key>
+		<string>itms-apps://itunes.apple.com/app/1317472889</string>
+	</dict>
+	<dict>
+		<key>iconFilename</key>
+		<string>ontask.png</string>
+		<key>name</key>
+		<string>On Task</string>
+		<key>description</key>
+		<string>A best seller in the educational space, On Task allows for discreet behavior tracking, and provides data analysis that reveals unique insights you couldn&apos;t see otherwise!</string>
+		<key>link</key>
+		<string>itms-apps://itunes.apple.com/app/668482696</string>
+	</dict>
+</array>
+</plist>
